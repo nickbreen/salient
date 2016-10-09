@@ -298,8 +298,8 @@ body[data-smooth-scrolling="0"] #header-outer .widget_shopping_cart, body[data-s
     color: #FFFFFF !important;
     cursor: pointer;
     display: inline-block;
-    font-size: 12px!important;
-    line-height: 12px;
+    font-size: 20px!important;
+    line-height: 20px;
     padding: 10px 10px!important;
     position: relative;
     text-align: center;
@@ -1002,7 +1002,7 @@ html .woocommerce .woocommerce-message, html .woocommerce .woocommerce-error, ht
 	border: none!Important;
 	text-shadow: none!Important;
 	-moz-text-shadow: none!Important;
-	-webkit-text-shadow: none!Important;
+	-webkit-text-shadow: none!Important;0.
 	-o-text-shadow: none!Important;
 }
 
@@ -1015,11 +1015,11 @@ html .woocommerce .woocommerce-message, html .woocommerce .woocommerce-error, ht
 }
 
 body .container .woocommerce-message a.button, body .container .woocommerce-error a.button, body .container .woocommerce-info a.button {
-	padding: 0px!important;
-	line-height: 1.5em;
-	height: 1.5em;
+	/*padding: 0px!important;
+	line-height: 1.5em;*/
+	/*height: 1.5em;*/
 	vertical-align: middle!important;
-	background-color: transparent!important;	
+	background: #00a76d !important;	
 }
 
 .woocommerce-message:before {
@@ -1209,7 +1209,7 @@ table.cart a.remove {
 .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tfoot th, .woocommerce-page table.shop_table tfoot td, .woocommerce-page table.shop_table tfoot th {
 	font-weight: normal!important;
 	font-family: 'OpenSansSemiBold';
-	color: #333;
+	color: #fff;
 }
 
 .woocommerce #payment div.form-row, .woocommerce-page #payment div.form-row {

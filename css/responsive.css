@@ -2555,7 +2555,7 @@
 	}
 	
 	#header-secondary-outer nav ul.sf-menu {
-		border-top: 1px solid #DDDDDD;
+		border-top: 0px solid #DDDDDD;
 	}
 	
 	body[data-header-color="custom"] #header-secondary-outer ul#social {

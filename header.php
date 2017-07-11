@@ -141,8 +141,6 @@ if($using_secondary == 'header_with_secondary') { ?>
 		 get_template_part('includes/header-search');
 	} ?>
 	
-	<div id="cta"><a class="booking" href="/shop/">BOOK NOW</a></div>
-
 	<header id="top">
 		
 		<div class="container">

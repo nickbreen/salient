@@ -1,6 +1,6 @@
 {
-    "name": "nickbreen/wordpress-theme-salient-manatours",
-    "description": "Salient WordPress theme with Manatours customisations Edit",
+    "name": "nickbreen/salient",
+    "description": "Salient WordPress theme with Manatours customisations",
     "type": "wordpress-theme",
     "require": {
         "composer/installers": "^1.0",
@@ -9,7 +9,7 @@
     "license": "GPLv3",
     "repositories": [{
         "type": "vcs",
-        "url": "https://github.com/nickbreen/wordpress-theme-salient-manatours"
+        "url": "https://github.com/nickbreen/salient"
     }],
     "authors": [{
         "name": "Nick Breen",
